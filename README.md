@@ -115,6 +115,16 @@ Yes, you could download python from https://www.python.org/ BUT actually this th
 
 ## Closing
 
+Go forth and play:
+
+- [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
+- [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
+- [Data Science in Visual Studio Code](https://code.visualstudio.com/docs/python/data-science-tutorial)
+
+BUT
+
+- [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
+
 > Once you've downloaded all these amazing tools you'll enter a community of developers, makers, coders, problem solvers BUT these are just tools and setup - the real work is still done by thinking out the problems and planning out solutions.
 
 ## Todo Checklist
@@ -122,6 +132,9 @@ Yes, you could download python from https://www.python.org/ BUT actually this th
 A helpful checklist to gauge how your README is coming on what I would like to finish:
 
 - [ ] Fill in the sections with more details and design. :)
+- [ ] A section on Jupyter Notebooks and Lab.
+- [ ] Mention "Cookiecutter: Better Project Templates".
+- [ ] Writing shareable, tested, Python software.
 
 ## Contributing
 

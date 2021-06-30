@@ -97,6 +97,15 @@ There are some ways to install Python on Windows 10 - but this is an opinionated
 - Easy to Maintain
 - Easy to Learn
 
+### Coding conventions
+
+- [black](https://github.com/psf/black) for formatting
+- [google docstrings](https://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings)
+- [flake8](https://flake8.pycqa.org/en/latest/index.html#quickstart) for linting
+- [mypy](http://mypy-lang.org/) for static typing analysis
+- [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit style.
+- [isort](https://github.com/timothycrosley/isort/) for import organization.
+
 ### Anaconda Individual Edition
 
 This is the way! :)
